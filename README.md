@@ -11,7 +11,7 @@ An intuitive and fun project that helps you understand a little bit about Expo R
 ![Gidle](./img/gidle_react.png)
 
 # How to run this project locally
-**Fork** my repo and give it a shot!
+**Fork** my repo and give it a shot!  
 ```
 cd Random-Generator
 npm install
